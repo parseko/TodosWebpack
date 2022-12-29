@@ -1,17 +1,12 @@
-# Webpack Starter
+# Aplicacion Web de Tareas
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto se basa en la interacción de un usuario con una aplicacion donde puede poner tareas sencillas en un lista, esta lista gurada las tareas que aun no se completan dentro del **localstorage** para que los datos son persistentes y no se borren a la hora de recargar el navegador.
 
-### Notas:
-Recuerde reconstruir los modulos de Node
+## Notas:
+Se crearon filtros que le puden decir al usuario cuales son las tareas pendientes, cuales han sido completadas asi como el poder de borrar todas las tareas completadas en un solo **click**.
 
-```
-npm install
-```
+### URL de Prueba:
 
-Y para construir el build, recuerden:
+Enlace a la aplicación: https://parseko.github.io/TodosWebpack/#/
 
-```
-npm run build
-```
 
